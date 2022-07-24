@@ -40,6 +40,7 @@
 |Day 029|July 20, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1549738602565087232)|
 |Day 030|July 21, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1550110902774812672)|
 |Day 031|July 22, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1550488100295839749)|
+|Day 032|July 23, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1550843214613323776)|
 
 <!---
 |Day 000|July 05, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539475529598107649)|
