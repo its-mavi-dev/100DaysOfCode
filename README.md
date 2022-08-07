@@ -54,6 +54,7 @@
 |Day 043|August 03, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1554844930602061825)|
 |Day 044|August 04, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1555205586887004161)|
 |Day 045|August 05, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1555574790328823809)|
+|Day 046|August 06, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1555915311710613515)|
 
 <!---
 |Day 000|July 05, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539475529598107649)|
