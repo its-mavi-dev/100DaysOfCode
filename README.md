@@ -64,6 +64,7 @@
 |Day 053|August 13, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1558467326118268929)|
 |Day 054|August 14, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1558835127471316994)|
 |Day 055|August 15, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1559187873672224768)|
+|Day 056|August 16, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1559575037409394688)|
 
 <!---
 |Day 000|July 05, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539475529598107649)|
