@@ -7,8 +7,8 @@
 
 ## Timeline 🛣️
 
-|**Day📌**|**Date 📆**| **Details 🗒️**|
-|------|-----------------|-----------------|
+|**Day 📌**|**Date 📆**| **Details 🗒️**|
+|:-:|:-:|-|
 |Day 001|June 22, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539602033782976514)|
 |Day 002|June 23, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539972445888970758)|
 |Day 003|June 24, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1540363369030754304)|
@@ -81,9 +81,5 @@
 |Day 070|August 30, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1564622886232420356)|
 |Day 071|August 31, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1564978975910219776)|
 |Day 072|September 01, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1565339484715040772)|
-
-<!---
-|Day 000|July 05, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1539475529598107649)|
--->
 
 ---
