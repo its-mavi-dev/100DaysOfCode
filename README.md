@@ -90,5 +90,6 @@
 |Day 079|September 08, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1567883766424829955)|
 |Day 080|September 09, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1568238249210159107)|
 |Day 081|September 10, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1568603576263639040)|
+|Day 082|September 11, 2022|  [Tweet link 🔗](https://twitter.com/its_mavi_dev/status/1569004207411449856)|
 
 ---
